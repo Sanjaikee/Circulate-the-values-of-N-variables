@@ -35,7 +35,8 @@ def circulate():
 ~~~
 
 ## Output:
-![github](./thiru.png)
+
+![1](https://github.com/Sanjaikee/Circulate-the-values-of-N-variables/assets/150231888/0a17a9e5-5861-481e-8fbf-82c15f585a70)
 
 ## Result:
 Hence the n-variables are programmed.
