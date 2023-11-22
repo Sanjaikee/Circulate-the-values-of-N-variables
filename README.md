@@ -24,6 +24,8 @@ print the list value
 End the programme
 
 ## Program:
+## Developed by: Sanjai S
+## Register no: 23003393
 ~~~
 def circulate():
     list1 =[10, 20, 30, 40, 50 ,60]
