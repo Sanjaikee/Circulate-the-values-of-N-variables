@@ -28,9 +28,9 @@ End the programme
 ## Register no: 23003393
 ~~~
 def circulate():
-    list1 =[10, 20, 30, 40, 50 ,60]
+    l=eval(input())
     n=int(input())
-    list1=list1[n:]+list1[:n]
+    l=l[n:]+l[:n]
     print("After circulating the values are:",list1)
 ~~~
 
